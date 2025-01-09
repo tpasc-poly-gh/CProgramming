@@ -1,0 +1,5 @@
+mkdir <path> (Make Directory)
+cd <path> (Change Directory)
+code <path> (Creates file, Opens)
+ls <path> (List Directory Items)
+pwd (Prnt Working Dir)
